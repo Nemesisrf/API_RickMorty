@@ -24,7 +24,7 @@ const fillData = (data) => {
     html += "</div>";
     html += "</div>";
     html += "</div>";
-  })
+  });
   document.getElementById("dataAlbum").innerHTML = html;
 };
 
