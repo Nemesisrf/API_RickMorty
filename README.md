@@ -1,1 +1,1 @@
-# API_Rickandmorty
+# API_RickMorty
